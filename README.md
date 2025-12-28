@@ -1,64 +1,80 @@
-# Hi there 👋, I'm Zayneb Haamdi
+<div align="center">
 
-### 🌟 About Me
-I'm a **Software Engineer & AI Enthusiast** from Tunisia. I love building **web apps, AI/ML projects, and interactive applications**. Passionate about learning new technologies and solving real-world problems with code.
+# 🌿 Hello, I'm Zeyneb Hamdi 🍃
 
-- 🎓 2nd Cycle Engineer
-- 💻 Full-Stack Developer (React, Flask, Django)
-- 🤖 AI & Machine Learning (TensorFlow, Keras, OpenCV)
-- 🌱 Always learning & experimenting
-- 📫 Reach me: [email](mailto:youremail@example.com)
+*"Isn't it nice to think that tomorrow is a new day with no mistakes in it yet?"*  
+— **Anne of Green Gables**
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🌱 About Me
 
-#### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+✨ I'm a **3rd-year Software Engineering student** from **Tunisia**  
+🍃 Passionate about **technology, AI, web development**, and meaningful projects  
+📚 I love learning, creating, and turning ideas into reality  
+🌼 Inspired by **nature, simplicity, and imagination**
 
-#### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+- 🎓 3rd Year Engineering Student  
+- 💻 Full-Stack Developer (React, Django, Flask)  
+- 🤖 AI & Machine Learning Enthusiast  
+- 🌿 Always growing, always curious  
 
 ---
 
-### 🚀 Projects
-Here are some projects that showcase my skills:
+## 🍃 Tech Garden (Skills)
 
-1. **Facial Recognition Web App** - Real-time face detection and authentication using Python & TensorFlow.  
-2. **Educational Platform** - Full-stack web app with Django + React for student and teacher management.  
-3. **AI-based IoT Security** - ML engine for detecting IoT vulnerabilities in real-time.  
+### 🌼 Frontend
+![React](https://img.shields.io/badge/React-5C7F67?style=for-the-badge&logo=react&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-A97142?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-6B8EAD?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D8C690?style=for-the-badge&logo=javascript&logoColor=4A3F35)
 
-Check out more in my [repositories](https://github.com/YourUsername?tab=repositories)  
+### 🌿 Backend
+![Python](https://img.shields.io/badge/Python-4F6F52?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-2E5E4E?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3A4F7A?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6A8F6B?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🌾 Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-3F7F5F?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6A5D4D?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-C97C5D?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-4A7BAF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🌸 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-CFA45D?style=for-the-badge&logo=tensorflow&logoColor=4A3F35)
+![Keras](https://img.shields.io/badge/Keras-8B3A3A?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5E6F9E?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
-![Zayneb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula)
+## 🌼 Featured Projects
+
+🌿 **Facial Recognition Web App**  
+Real-time face detection & authentication using **Python, TensorFlow & OpenCV**
+
+📘 **Educational Platform**  
+Full-stack platform with **Django + React** for students and teachers
+
+🔐 **AI-based IoT Cyber Security**  
+Machine learning system for **IoT vulnerability detection**
+
+➡️ Explore more in my repositories 🌾
 
 ---
 
-### ✨ Fun Fact
-- I love creating **interactive AI projects** that make everyday tasks smarter.  
-- Always exploring **new technologies and mini-projects**.  
+## 🌷 A Little More About Me
+
+- 🍂 I believe code can be **beautiful and meaningful**
+- 🌿 I enjoy **mini-projects** and continuous improvement
+- 📖 Inspired by literature, nature, and creativity
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<div align="center">
 
+🌱 *"Kindred spirits are not so scarce as I used to think."* 🌱  
+
+</div>
