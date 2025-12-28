@@ -2,7 +2,7 @@
 
 # 🌿 Hello, I'm Zeyneb Hamdi 🍃
 
-*"Isn't it nice to think that tomorrow is a new day with no mistakes in it yet?"*  
+*"It's not what the world holds for you ,It's what you bring to it."*  
 — **Anne of Green Gables**
 
 </div>
